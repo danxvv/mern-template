@@ -1,4 +1,4 @@
-//import la base de datos
+//import la base de datos 
 import DummyData from "../models/dummyData.js";
 
 //exporto los controladores de uno en uno para que el router las cache
